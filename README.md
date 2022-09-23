@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sithum Ameesha</h1>
 <h3 align="center">I am Full Stack Developer</h3>
 
+
+![Sithum Ameesha - Google Chrome 23_09_2022 11_35_37 (2)](https://user-images.githubusercontent.com/98277595/191902008-5c5d577a-5058-4096-ad08-da6cfaec4177.png)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sithumameesha&label=Profile%20views&color=0e75b6&style=flat" alt="sithumameesha" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
